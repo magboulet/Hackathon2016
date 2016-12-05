@@ -21,6 +21,7 @@ sgp-core-01|4|Phil| 52.220.157.193 | frk-core-01 | seo-core-01| syd-core-01
 syd-core-01|1|Vidhya| 13.54.186.240 | | | 
 
 
+
 ### Participant Routers - Enter your details below against your name
 
 Add your Router IP in the table. your first connection is mandatory, and will connect you to the core set of servers in the various AWS Regions. Your second connection should be to a peer in your region.
@@ -50,7 +51,7 @@ John Filo|Asia Pacific (Sydney)|syd-jfilo| |syd-core-01|
 Ken Barr|US East (N. Virginia)|nov-kbarr| |nov-core-02| 
 Ken Overton|US East (N. Virginia)|nov-koverton| |nov-core-02| 
 Luis Horna|US East (N. Virginia)|nov-lhorna| |nov-core-01| 
-Magali Boulet|EU (Frankfurt)|frk-mboulet| |frk-core-01| 
+Magali Boulet|EU (Frankfurt)|frk-mboulet|35.156.182.14|frk-core-01| 
 Mahesh Kaleru|US East (Ohio)|ohi-mkaleru| |ohi-core-01| 
 Manuel Moreno|US West (N. California)|cal-mmoreno| |cal-core-01| 
 Mark Spielman|US East (N. Virginia)|nov-mspielman| |nov-core-02| 
